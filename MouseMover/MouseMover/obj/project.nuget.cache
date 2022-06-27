@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "D5yNxFGAkgbeuH1XTunIkZEhgemGe/staMhvhkszeiaIpje9iSkaR1CEBtWxoTOdaUGuSCTBZh3FgHQBNiiXPg==",
+  "dgSpecHash": "hZsqIWejO5c3aF1XdtCvFkyiUhHuqMFyP+wml9Q5JF4O1qxiulV4LYVUi4s2/tm919MCTXfLsV8Nr9ySBA2f8A==",
   "success": true,
   "projectFilePath": "C:\\Users\\erwin.j.rivera\\source\\repos\\mv\\MouseMover\\MouseMover\\MouseMover.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\erwin.j.rivera\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\erwin.j.rivera\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\erwin.j.rivera\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\erwin.j.rivera\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
