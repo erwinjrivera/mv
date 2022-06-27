@@ -1,0 +1,17 @@
+C:\Users\erwin.j.rivera\source\repos\mv\MouseMover\MouseMover\bin\Debug\net6.0-windows\MouseMover.exe
+C:\Users\erwin.j.rivera\source\repos\mv\MouseMover\MouseMover\bin\Debug\net6.0-windows\MouseMover.deps.json
+C:\Users\erwin.j.rivera\source\repos\mv\MouseMover\MouseMover\bin\Debug\net6.0-windows\MouseMover.runtimeconfig.json
+C:\Users\erwin.j.rivera\source\repos\mv\MouseMover\MouseMover\bin\Debug\net6.0-windows\MouseMover.dll
+C:\Users\erwin.j.rivera\source\repos\mv\MouseMover\MouseMover\bin\Debug\net6.0-windows\MouseMover.pdb
+C:\Users\erwin.j.rivera\source\repos\mv\MouseMover\MouseMover\obj\Debug\net6.0-windows\MouseMover.csproj.AssemblyReference.cache
+C:\Users\erwin.j.rivera\source\repos\mv\MouseMover\MouseMover\obj\Debug\net6.0-windows\MouseMover.Form1.resources
+C:\Users\erwin.j.rivera\source\repos\mv\MouseMover\MouseMover\obj\Debug\net6.0-windows\MouseMover.csproj.GenerateResource.cache
+C:\Users\erwin.j.rivera\source\repos\mv\MouseMover\MouseMover\obj\Debug\net6.0-windows\MouseMover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erwin.j.rivera\source\repos\mv\MouseMover\MouseMover\obj\Debug\net6.0-windows\MouseMover.AssemblyInfoInputs.cache
+C:\Users\erwin.j.rivera\source\repos\mv\MouseMover\MouseMover\obj\Debug\net6.0-windows\MouseMover.AssemblyInfo.cs
+C:\Users\erwin.j.rivera\source\repos\mv\MouseMover\MouseMover\obj\Debug\net6.0-windows\MouseMover.csproj.CoreCompileInputs.cache
+C:\Users\erwin.j.rivera\source\repos\mv\MouseMover\MouseMover\obj\Debug\net6.0-windows\MouseMover.dll
+C:\Users\erwin.j.rivera\source\repos\mv\MouseMover\MouseMover\obj\Debug\net6.0-windows\refint\MouseMover.dll
+C:\Users\erwin.j.rivera\source\repos\mv\MouseMover\MouseMover\obj\Debug\net6.0-windows\MouseMover.pdb
+C:\Users\erwin.j.rivera\source\repos\mv\MouseMover\MouseMover\obj\Debug\net6.0-windows\MouseMover.genruntimeconfig.cache
+C:\Users\erwin.j.rivera\source\repos\mv\MouseMover\MouseMover\obj\Debug\net6.0-windows\ref\MouseMover.dll
